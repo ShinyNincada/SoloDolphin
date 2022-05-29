@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/SoloDolphin/app/src/main/res/layout/activity_add_product.xml" value="0.23125" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/SoloDolphin/app/src/main/res/layout/activity_detailed_daily_meal.xml" value="0.23125" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/SoloDolphin/app/src/main/res/layout/activity_edit.xml" value="0.23125" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/SoloDolphin/app/src/main/res/layout/activity_edit_user.xml" value="0.23125" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/SoloDolphin/app/src/main/res/layout/activity_login.xml" value="0.23125" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/SoloDolphin/app/src/main/res/layout/activity_main.xml" value="0.23125" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/SoloDolphin/app/src/main/res/layout/activity_registration.xml" value="0.23125" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/SoloDolphin/app/src/main/res/layout/activity_welcome.xml" value="0.3265625" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/SoloDolphin/app/src/main/res/layout/app_bar_main.xml" value="0.18541666666666667" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/SoloDolphin/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.23125" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/SoloDolphin/app/src/main/res/layout/cart_picker.xml" value="0.22708333333333333" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/SoloDolphin/app/src/main/res/layout/content_main.xml" value="0.23125" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/SoloDolphin/app/src/main/res/layout/daily_meal_fragment.xml" value="0.29907407407407405" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/SoloDolphin/app/src/main/res/layout/fragment_home.xml" value="0.23125" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/SoloDolphin/app/src/main/res/layout/fragment_my_cart.xml" value="0.1" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/SoloDolphin/app/src/main/res/layout/home_vertical_item.xml" value="0.178125" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/SoloDolphin/app/src/main/res/layout/mycart_item.xml" value="0.22" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/SoloDolphin/app/src/main/res/layout/nav_header_main.xml" value="0.3265625" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/SoloDolphin/app/src/main/res/menu/activity_main_drawer.xml" value="0.3265625" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/SoloDolphin/app/src/main/res/menu/main.xml" value="0.3265625" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/app/src/main/res/layout/activity_add_product.xml" value="0.23125" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/app/src/main/res/layout/activity_login.xml" value="0.1259259259259259" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/app/src/main/res/layout/activity_registration.xml" value="0.1259259259259259" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/app/src/main/res/layout/app_bar_main.xml" value="0.1287037037037037" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/app/src/main/res/layout/content_main.xml" value="0.1287037037037037" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/app/src/main/res/layout/daily_meal_fragment.xml" value="0.23125" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/app/src/main/res/layout/fragment_home.xml" value="0.23125" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/app/src/main/res/layout/fragment_my_cart.xml" value="0.23125" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/app/src/main/res/menu/activity_main_drawer.xml" value="0.18177083333333333" />
+        <entry key="..\:/HKI 2021-2022/TACN/Android/BTL/SoloDolphin/app/src/main/res/menu/main.xml" value="0.11296296296296296" />
+        <entry key="..\:/Users/nguye/Downloads/SoloDolphin/app/src/main/res/layout/activity_add_product.xml" value="0.2" />
+        <entry key="..\:/Users/nguye/Downloads/SoloDolphin/app/src/main/res/layout/activity_detailed_daily_meal.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/nguye/Downloads/SoloDolphin/app/src/main/res/layout/home_vertical_item.xml" value="0.2771317829457364" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activites.edit_user">
+
+    <TextView
+        android:id="@+id/UIDtxt"
+        android:layout_width="match_parent"
+        android:layout_height="43dp"
+        android:hint="UID"
+        android:textAlignment="center"
+        android:textSize="25dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/usNametxt"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Your Name"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/usMailtxt" />
+
+
+    <EditText
+        android:id="@+id/usPasstxt"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Your Password"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/usNametxt" />
+
+    <TextView
+        android:id="@+id/usMailtxt"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Your eMail"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/UIDtxt" />
+
+    <Switch
+        android:id="@+id/isAdminSwitch"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="IsAdmin"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/usAddresstxt" />
+
+    <Button
+        android:id="@+id/userCancelBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cancel"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/isAdminSwitch" />
+
+    <Button
+        android:id="@+id/userSavebtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:textSize="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/isAdminSwitch" />
+
+    <EditText
+        android:id="@+id/usAddresstxt"
+        android:layout_width="344dp"
+        android:layout_height="49dp"
+        android:ems="10"
+        android:hint="Your Address"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/usPasstxt" />
+
+    <ImageButton
+        android:id="@+id/addressPickerbtn"
+        android:layout_width="66dp"
+        android:layout_height="50dp"
+        app:layout_constraintStart_toEndOf="@+id/usAddresstxt"
+        app:layout_constraintTop_toBottomOf="@+id/usPasstxt"
+        app:srcCompat="@drawable/ic_baseline_map_24" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
